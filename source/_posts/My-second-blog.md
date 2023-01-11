@@ -1,5 +1,5 @@
 ---
-title: My second blog.md
+title: My second blog
 date: 2023-01-11 13:01:05
 tags:
 ---
