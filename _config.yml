@@ -105,4 +105,4 @@ theme: landscape # I changed here from no comment 0111
 deploy:
   type: git
   repository: git@github.com:ZHongli626/ZHongli626.github.io.git
-  branch: main # I changed here from master
+  branch: master # I changed here from master main
